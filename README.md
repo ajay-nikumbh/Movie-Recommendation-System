@@ -6,7 +6,8 @@ A. Data collection : [Tmdb 5000 dataset](https://www.kaggle.com/datasets/tmdb/tm
 
 ![image](https://user-images.githubusercontent.com/37560890/183575278-fc9da1e9-b9cf-44e9-a953-8c082108d028.png)
 
-B. 
+B. Data set after cleaning text
+
 ![image](https://user-images.githubusercontent.com/37560890/183575485-ef3bd59d-6121-46e6-9f64-2a9678551ce4.png)
 
 ### 2. Streamlit Ui 

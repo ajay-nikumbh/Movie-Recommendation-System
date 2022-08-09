@@ -10,6 +10,26 @@ B. Data set after cleaning text
 
 ![image](https://user-images.githubusercontent.com/37560890/183575485-ef3bd59d-6121-46e6-9f64-2a9678551ce4.png)
 
+C. Recommend function
+
+```py
+def recommend(movie):
+    
+    # Fetch the index
+    movie_index= new_df[new_df['title'] == movie].index[0]
+    
+    # Fetch the distances
+    distances = similarity[movie_index]
+    
+    # Get the 5 similar movies 
+    movies_list= sorted(list(enumerate(distances)),reverse=True,key=lambda x:x[1])[1:6]
+    
+    # Now print the first indexe's of the top 5 similar movies
+    for i in movies_list:
+        print(new_df.iloc[i[0]].title)
+
+```
+
 ### 2. Streamlit Ui 
 
 

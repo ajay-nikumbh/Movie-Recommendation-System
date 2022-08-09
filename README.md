@@ -49,7 +49,7 @@ Then run the app using the ‘streamlit run’ command.
 `
 
 ```py
-web: sh setup.sh && streamlit run iris_streamlit_demo.py
+web: sh setup.sh && streamlit run app.py
 ```
 
 4. Heroku commands

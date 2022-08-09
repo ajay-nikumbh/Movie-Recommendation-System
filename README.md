@@ -3,14 +3,14 @@
 ![image](https://user-images.githubusercontent.com/37560890/183598989-45e431c6-c66f-40c3-8bfc-606a78880a4d.png)
 ![aja](https://user-images.githubusercontent.com/37560890/183597991-1d0820b1-c5c2-4f1a-b599-c9f2323e3e7d.png)
 
-### 1. Content Based Filtering
+#### A. Content Based Filtering
 1. They suggest similar items based on a particular item. 
 2. This system uses item metadata, such as genre, director, description, actors, etc.
 3. For movies, to make these recommendations. 
 4. The general idea behind these recommender systems is that if a person liked a particular item
 he or she will also like an item that is similar to it.
 
-### 2. Collaborative Filtering
+#### B. Collaborative Filtering
 
 1. This system matches persons with similar interests and provides recommendations based on this matching.
 2. Collaborative filters do not require item metadata like its content-based counterparts.

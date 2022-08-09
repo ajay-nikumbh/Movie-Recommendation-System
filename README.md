@@ -27,6 +27,9 @@ B. Data set after cleaning text
 
 C. Recommend function
 
+
+![3](https://user-images.githubusercontent.com/37560890/183600630-3d16f353-9ed9-421f-80b2-0282ea9ed95a.png)
+
 ```py
 def recommend(movie):
     

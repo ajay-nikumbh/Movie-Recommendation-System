@@ -104,7 +104,7 @@ $ heroku login
 $ git init
 $ heroku git:remote -a mrs-ajay
 $ git add .
-$ git commit -am "make it better"
+$ git commit -am "movies recommender"
 $ git push heroku master
 
 ```

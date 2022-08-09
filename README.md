@@ -1,6 +1,15 @@
 # Movie-Recommendation-System
 
-### 1. Streamlit Ui 
+### 1. Project Overview
+
+A. Data collection : [Tmdb 5000 dataset](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata)
+
+![image](https://user-images.githubusercontent.com/37560890/183575278-fc9da1e9-b9cf-44e9-a953-8c082108d028.png)
+
+B. 
+![image](https://user-images.githubusercontent.com/37560890/183575485-ef3bd59d-6121-46e6-9f64-2a9678551ce4.png)
+
+### 2. Streamlit Ui 
 
 
 ![image](https://user-images.githubusercontent.com/37560890/183477463-4c1b6778-1f2c-4166-9971-381ba284c217.png)

@@ -23,10 +23,12 @@ A. Data collection : [Tmdb 5000 dataset](https://www.kaggle.com/datasets/tmdb/tm
 
 B. Data set after cleaning text
 
+
 ![image](https://user-images.githubusercontent.com/37560890/183575485-ef3bd59d-6121-46e6-9f64-2a9678551ce4.png)
 
 C. Recommend function
 
+Cosine similarity 
 
 ![3](https://user-images.githubusercontent.com/37560890/183600630-3d16f353-9ed9-421f-80b2-0282ea9ed95a.png)
 
